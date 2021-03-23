@@ -1,8 +1,8 @@
 
 ## About Me
 
-### Hello, I’m hyungil ed kim.
-### I’m Interested in Data Technology, and want to drive data-driven innovation in diverse domain, especially personal health care and manufacturing industry
+##### Hello, I’m hyungil ed kim.
+##### I’m Interested in Data Technology, and want to drive data-driven innovation in diverse domain, especially personal health care and manufacturing industry
 
 
 <!---
