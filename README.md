@@ -28,6 +28,12 @@
 - Model : Linear regression with deep data interpreation
 - Link : [Code](https://github.com/hyungilk/hyungilk/blob/main/Eletronic%20Scooter%20Analysis.ipynb)
 
+#### Hackerthon - Carnegie Mellon Hackerthon 2022 (Team)
+1. **Product Management** Geo-Location Event Organizer
+- Tech : Google Map APIs(place, driect API), Google Calendar(account sync), Fimga(design) 
+- Link : [Presentation](https://drive.google.com/file/d/1Plb-_p8GTimZC7T5_b70_Y445O3-O2Dx/view), [Demo](https://drive.google.com/file/d/1TApSDw7CbxuKdb7p0H2PnvqiU68c-_mW/view), 
+
+
 ### Contact
 * email : hyungil.ed.kim at gmail.com
 * linkedin : https://www.linkedin.com/in/hyungil-ed-kim/
