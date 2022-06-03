@@ -26,7 +26,7 @@
 1. **Modeling** Electronics Scooter Operation Analysis
 - Data : E-scooter mobility operation
 - Model : Linear regression with deep data interpreation
-- Link : [Code]()
+- Link : [Code](https://github.com/hyungilk/hyungilk/blob/main/Eletronic%20Scooter%20Analysis.ipynb)
 
 ### Contact
 * email : hyungil.ed.kim at gmail.com
