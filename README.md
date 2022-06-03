@@ -15,7 +15,7 @@
 1. **Modeling** Customer Segmentation Model for Marketing 
 - Data : Deloitte Media Usage Survey
 - Model : Tree based classificiation models(Decision Tree, Random Forest, and so on)
-- Link : [Code](https://github.com/hyungilk/hyungilk/blob/main/DSPM_final_code_summary.ipynb)
+- Link : [Code](https://github.com/hyungilk/hyungilk/blob/main/Customer%20Segmentation%20Model.ipynb)
 2. **Interactive Data Visualization** CMU Graduate Student City Finder
 - Data : Zillow housing price, US City safety data
 - Package : Streamlit, Altair
