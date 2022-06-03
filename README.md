@@ -16,7 +16,7 @@
 - Data : Deloitte Media Usage Survey
 - Model : Tree based classificiation models(Decision Tree, Random Forest, and so on)
 - Link : [Code](https://github.com/hyungilk/hyungilk/blob/main/DSPM_final_code_summary.ipynb)
-2. **Data Visualization** CMU Graduate Student City Finder
+2. **Interactive Data Visualization** CMU Graduate Student City Finder
 - Data : Zillow housing price, US City safety data
 - Package : Streamlit, Altair
 - Link : [Visualization](https://share.streamlit.io/cmu-ids-2022/final-project-champion/main/app.py), 
@@ -27,12 +27,6 @@
 - Data : E-scooter mobility operation
 - Model : Linear regression with deep data interpreation
 - Link : [Code](https://github.com/hyungilk/hyungilk/blob/main/Eletronic%20Scooter%20Analysis.ipynb)
-
-#### Hackerthon - Carnegie Mellon Hackerthon 2022 (Team)
-1. **Product Management** Geo-Location Event Organizer
-- Tech : Google Map APIs(place, driect API), Google Calendar(account sync), Fimga(design) 
-- Link : [Presentation](https://drive.google.com/file/d/1Plb-_p8GTimZC7T5_b70_Y445O3-O2Dx/view), [Demo](https://drive.google.com/file/d/1TApSDw7CbxuKdb7p0H2PnvqiU68c-_mW/view), 
-
 
 ### Contact
 * email : hyungil.ed.kim at gmail.com
