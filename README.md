@@ -11,17 +11,22 @@
 * Research Engineer, Advanced R&D Team, Samsung Eletronics Mobile (16.3-19.4)
 
 #### Main Focus
-* Data Science Project : 
+* Data Science Project (Team): 
 1. **Modeling** Customer Segmentation Model for Marketing 
 - Data : Deloitte Media Usage Survey
 - Model : Tree based classificiation models(Decision Tree, Random Forest, and so on)
-- Link[www.google.com]
+- Link : [Code](https://github.com/hyungilk/hyungilk/blob/main/DSPM_final_code_summary.ipynb)
 2. **Data Visualization** CMU Graduate Student City Finder
 - Data : Zillow housing price, US City safety data
 - Package : Streamlit, Altair
-- Link : Visualization[https://share.streamlit.io/cmu-ids-2022/final-project-champion/main/app.py], Repository[https://github.com/CMU-IDS-2022/final-project-champion]
+- Link : [Visualization](https://share.streamlit.io/cmu-ids-2022/final-project-champion/main/app.py), 
+         [Repository](https://github.com/CMU-IDS-2022/final-project-champion)
 Data Science Projects includes EDA, Data Visualization, and Course Works
-* Capstone Project :  
+* Data Science Project (Personal):
+1. **Modeling** Electronics Scooter Operation Analysis
+- Data : E-scooter mobility operation
+- Model : Linear regression with deep data interpreation
+- Link : [Code]()
 
 #### Contact
 * email : hyungil.ed.kim at gmail.com
