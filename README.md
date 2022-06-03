@@ -14,6 +14,9 @@
 * Data Science Project : Data Science Projects includes EDA, Data Visualization, and Course Works
 * Capstone Project :  
 
+#### Contact
+* email : hyungil.ed.kim at gmail.com
+* linkedin : https://www.linkedin.com/in/hyungil-ed-kim/
 
 
 <!---
